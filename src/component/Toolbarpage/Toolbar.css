@@ -1,0 +1,36 @@
+.Toolbar {
+  width: 100vw;
+  padding: 62px 190px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.text {
+  display: flex;
+  align-items: center;
+}
+.textT {
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+  background-color: #458ff6;
+  text-align: center;
+  font-size: 21px;
+}
+.textlogo {
+  font-weight: 700;
+  font-size: 24px;
+  color: #233348;
+}
+
+.items {
+  margin-left: 40px;
+  font-weight: 400;
+  font-size: 18px;
+  color: #1f1534;
+}
+
+.Tool-items {
+  display: flex;
+  justify-content: flex-end;
+}

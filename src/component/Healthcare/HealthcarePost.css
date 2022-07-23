@@ -1,0 +1,44 @@
+.Healthcarepost-home {
+  width: 100vw;
+  padding-left: 190px;
+  padding-right: 163px;
+  display: flex;
+}
+
+.HealthcarePost {
+  width: 427px;
+  margin-top: 191px;
+}
+
+.Healthcare-Heading {
+  font-weight: 700;
+  font-size: 48px;
+  color: #000000;
+  margin-bottom: 25px;
+}
+.Healthcare-description {
+  font-weight: 300;
+  font-size: 21px;
+  color: #7d7987;
+  margin-bottom: 45px;
+}
+.consult {
+  height: 60px;
+  font-weight: 700;
+  font-size: 18px;
+  color: #ffffff;
+  background: #458ff6;
+  border-radius: 55px;
+  padding-left: 40px;
+  padding-right: 40px;
+  border: none;
+}
+.consult:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+.Healthcare-Image {
+  margin-top: 84px;
+  width: 450px;
+  margin-left: 127px;
+}

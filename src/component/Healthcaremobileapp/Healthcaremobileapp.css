@@ -1,0 +1,48 @@
+.Healthcaremobileapp-home {
+  width: 100vw;
+  padding-left: 190px;
+  padding-right: 164px;
+  display: flex;
+  padding-bottom: 265px;
+}
+.Healthcarmobileapp {
+  width: 420px;
+  margin-top: 265px;
+}
+.Healthcaremobileapp-Heading {
+  font-weight: 700;
+  font-size: 36px;
+  color: #000000;
+  margin-bottom: 63px;
+  margin-top: 265px;
+}
+.Healthcaremobileapp-description {
+  font-weight: 300;
+  font-size: 18px;
+  color: #7D7987;
+  margin-bottom: 40px;
+  margin-right: 71px;
+}
+.download {
+  height: 60px;
+  font-weight: 700;
+  font-size: 18px;
+  color: #458ff6;
+  border-radius: 55px;
+  padding-left: 40px;
+  padding-right: 40px;
+  cursor: pointer;
+  background-color: white;
+  border: 1.4px solid #458ff6;
+}
+
+.download:hover {
+  text-decoration: underline;
+  text-decoration-color: #458ff6;
+}
+
+.Healthcaremobileapp-Image {
+  margin-top: 262px;
+  width: 500px;
+  margin-left: 164px;
+}

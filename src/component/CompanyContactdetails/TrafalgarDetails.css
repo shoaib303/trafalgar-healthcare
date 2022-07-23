@@ -1,0 +1,66 @@
+.TrafalgarCompanyDetails-Page {
+  background: linear-gradient(183.41deg, #67c3f3 -8.57%, #5a98f2 82.96%);
+  padding: 124px 150px 113px 150px;
+  display: flex;
+}
+.Text {
+  display: flex;
+  flex-direction: column;
+  width: 40%;
+  margin-right: 80px;
+}
+.text1 {
+  display: flex;
+}
+.TextT {
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+  font-weight: 700;
+  font-size: 26px;
+  color: #5b9bf3;
+  background-color: #ffffff;
+  margin-right: 12px;
+  text-align: center;
+}
+.Textlogo {
+  font-weight: 700;
+  font-size: 24px;
+  color: #ffffff;
+}
+.Trafalgar-Description {
+  width: 391px;
+  font-weight: 300;
+  font-size: 18px;
+  color: #ffffff;
+  margin-top: 22px;
+}
+.Trafalgar-Copy {
+  font-weight: 300;
+  font-size: 16px;
+  color: #ffffff;
+  margin-top: 31px;
+}
+.AboutDetails {
+  display: flex;
+  width: 60%;
+
+  justify-content: space-between;
+}
+
+.CompanyItems {
+  display: flex;
+  flex-direction: column;
+}
+.Company-Heading {
+  font-weight: 700;
+  font-size: 20px;
+  color: #ffffff;
+  margin-bottom: 30px;
+}
+.item1 {
+  margin-bottom: 10px;
+  font-weight: 300;
+  font-size: 18px;
+  color: #ffffff;
+}
